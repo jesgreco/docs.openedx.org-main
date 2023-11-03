@@ -1,0 +1,16 @@
+.. |Platform| replace:: Open edX
+
+.. |Image Instructions| replace:: Click the images below to enlarge them and see details.
+
+.. |Image Sidebar Click| replace:: Click the image to see screen details.
+
+.. |Video Sidebar Click| replace:: Play the video below to see these steps performed.
+
+.. |Pencil Icon| image:: /_images/icon_pencil.png
+
+.. |GitHub Pencil| image:: /_images/github_pencil.png
+
+.. |GitHub Icon| image:: /_images/github_icon.png
+
+
+.. |Publish Icon| image:: /_images/publish_icon.png
